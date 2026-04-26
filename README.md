@@ -1,4 +1,4 @@
-# CloudSync Bookmarks
+# E-C-connect
 
 这是一个支持 Edge 和 Chrome 双向同步的收藏夹插件。
 
