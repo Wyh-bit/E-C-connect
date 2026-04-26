@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Local data storage
+backend/data/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Extension build/zip files and private keys
+*.zip
+*.crx
+*.pem
+*.pub
